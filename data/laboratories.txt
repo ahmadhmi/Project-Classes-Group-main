@@ -1,0 +1,6 @@
+Lab Name_Cost
+C Reactive Protein_95
+C19 Antigen Pcr_40
+Complete Blood Count_90
+Hemoglobin A1C_85
+Serum Creatinine_80
